@@ -1,1 +1,11 @@
-Marvel Movies
+<div class="card">
+<div class="card-header">
+<h2><span>Marvel Movies</span></h2>
+</div>
+<div class="card-body">
+<h5 class="card-title">Avengers(Spiderman)</h5>
+<p class="card-text">Tom Holland</p>
+<button type="button" class="btn btn-outline-warning" onclick="loadDoc3()">Show</button>
+</div>
+</div>
+        
